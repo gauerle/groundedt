@@ -3,6 +3,8 @@ title: O espírito etnográfico emergente de diferentes (con)textos de ruptura s
 ---
 Uma análise a partir da teoria fundamentada aplicada a textos de uma questão da prova final da disciplina de Estatística Aplicada à Psicobiologia III da Unifesp
 
+> CLIQUE NO CANTO SUPERIOR DIREITO EM "GRAPH VIEW" PARA VISUALIZAR AS CONEXÕES!
+
 ---
 ### CONCLUSÕES
 - Após o esgotamento dos materiais oferecidos, formulou-se o grafo disponível abaixo, em que o grau de saturação das cores dos nós e a densidade de setas a ele convergentes são proporcionais ao grau de informação condensada. Outra forma de observar a relação e importância dentre os níveis de codificação é a diversidade de cores ao qual um nó está conectado, de modo que isso indique um tópico transversal entre as diferentes fontes. 
